@@ -1,4 +1,7 @@
 {
 	"name": "yocto/yoclibrary",
-  "description": "Yocto yocLibrary for PHP Composer"
+	"description": "Yocto yocLibrary for PHP Composer",
+	"keywords":[
+		"yocLibrary"
+	]
 }
